@@ -1,3 +1,3 @@
-# Basic_Artificial_Intelligence_2020
+# Basic_Artificial_Intelligence
 
 ## Training Code
